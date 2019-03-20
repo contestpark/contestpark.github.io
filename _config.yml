@@ -297,13 +297,21 @@ defaults:
       comments: # true
       share: true
       related: true
-
-# Navigation
-navigation:
- - title: Home
-   url: /#
- - title: Deep Learning
-   url: /Deep Learning
+      
+  # _posts/DeepLearning
+  - scope:
+      path: "_posts/DeepLearning"
+      type: posts
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+      comments: true
+      share: true
+      search: true
+      related: true
+      sidebar:
+      # nav: sidebar-
 
 theme: jekyll-theme-cayman
 
