@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "kr-KR"
-title                    : ""
+title                    : "Δ"
 title_separator          : "-"
 name                     : "KY Park"
 description              : "My website."
@@ -109,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "KY Park"
-  avatar           : "/images/2.jpg"
+  avatar           : "/images/1.jpg"
   bio              : "Happiness depends upon ourselves."
   location         : "Korea, Republic of"
   email            : 
