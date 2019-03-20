@@ -2,8 +2,8 @@
 main:
    - title: "Home"
      url: /
-   - title: "Deep Learning"
-     url: /deep learning/
+   - title: "DeepLearning"
+     url: /deeplearning/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
