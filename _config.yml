@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "kr-KR"
 title                    : " "
-title_separator          : "-"
+title_separator          : " "
 name                     : "KY Park"
 description              : "My website."
 url                      : # the base hostname & protocol for your site e.g. 
@@ -27,11 +27,12 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. 
                            "contestpark/contestpark.github.io"
 teaser                   : # "/images/layout1.jpg"
+                           "/images/logo_cat.png"
 logo                     : # path of logo image to display in the masthead, e.g. 
-                            "/images/logo_cat.png"
+                           # "/images/logo_cat.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 300
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -118,7 +119,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:"contestpark@naver.com"
+      url: "mailto:"contestpark@naver.com""
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
