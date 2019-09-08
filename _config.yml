@@ -30,7 +30,8 @@ teaser                   : # "/images/layout1.jpg"
                            "/images/logo_cat.png"
 logo                     : # path of logo image to display in the masthead, e.g. 
                            # "/images/logo_cat.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : " "
+                           # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 300
 comments:
